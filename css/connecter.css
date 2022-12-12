@@ -1,0 +1,173 @@
+  
+body{
+    margin: 0;
+    padding: 0;
+    font:12px Arial;
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+}
+
+header{
+    /*position: absolute;*/
+    top: 0;
+    left: 0;
+    background: #2596be;
+    width:100%;
+    height: 20vh ;
+   
+}
+
+nav{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+.logo{
+    width: 30%;
+   height: 8vh;
+   margin-left: 128px;
+}
+
+#logo_princ{
+    margin-left: 420px;
+}
+
+#corp{
+	  background-image:url('telecharger.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 80vh;
+	/* top: 0vh; */
+}
+	
+      /* Contenue principale  */
+
+#principale{
+	display: flex;
+	width: 45%;
+	border: 1px transparent;
+	background:  #2596be;
+    padding: 2%;
+    top: 23vh;
+    position: absolute;
+    left: 24.5%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 6px;
+}
+
+
+     /* Contenue gauche */
+ 
+#gauche{
+	padding-top: 3%;
+	height: 63vh;
+}
+
+#gauche h1{
+	    text-align: center;
+		margin-top: -1vh;
+		font-size: 25px;
+		font-weight: bold;
+}
+
+.case{
+	margin-left: 145px;
+
+}
+
+.case2{
+	margin-left: 215px;
+	margin-top: 1.2vh;
+}
+
+label{
+	font-size: 13px;
+	color: black;
+	font-weight: bold;
+}
+
+input{
+	padding:  2%  10%;
+	background-color:white;
+	margin-top: 18px;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin-left: 80px;
+}
+
+input:hover{
+	background-color: #313339;
+	outline-color: #1a7297;
+}
+
+
+p{
+	color: black;
+}
+
+.texte{
+	font-size: 15px;
+	margin-top: 2vh;
+}
+
+
+
+.password {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-size: 13px;
+	top: 15vh;
+}
+
+.password:hover {
+	text-decoration: underline;
+}
+
+.texte:hover {
+    text-decoration: underline;	
+}
+
+
+button{
+    background-color: #8c8f99;
+     padding: 2.1% 10.5%;
+    color: rgb(87, 12, 12);
+    font-weight: bold;
+    font-size: 15px;
+	border-radius: 5px;
+	text-align: center;
+	margin-left: 30vh;
+	margin-top: 5.5vh;
+
+}
+
+ button a{
+        text-decoration: none;
+        color: white;
+    }
+
+    button:hover{
+        background-color: #a33722; 
+    }  
+
+	select{
+        padding: 2% 15.7%;
+        margin-top: 2vh;
+        margin-left: 2.6px;
+        border: 1px solid black;
+        border-radius: 5px;
+    } 
+    select:hover{
+        background-color: #313339;
+        outline-color: #1a7297;
+    }
+
