@@ -6,7 +6,7 @@ Une petite entreprise possède un stock d'articles, identifiés chacun par une r
 • les comptables, qui peuvent accéder aux différentes informations mais pas les modifier.
 
 <p align='center'>
-<img height="500" width="600" center src="https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/mydreams.png"/>
+<img height="500" width="600" center src="https://github.com/nhelissa01/Projet_BonBagay/blob/main/views/mydreams.png"/>
 </p>
 
 ## Contenue
