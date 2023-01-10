@@ -16,34 +16,25 @@ Cette premiere version est une petite application de gestion de stocks en PHPMyS
 2- interface de consultation (pour tous les utilisateurs identifiés),
 3- interface d'insertion et de modification (commerciaux seulement).
 
-Les images ci-dessous présentent les interfaces de connexion, de consulation, d'insertion et de modification.
+Les images ci-dessous présentent des exemples d'interface de connexion, de consulation, d'insertion et de modification.
 
 ### Interface de connexion
 <p align='center'>
 <img height="500" width="600" center src="https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/interface2.png"/>
 </p>
 
-### Interface de consulation
+### Interfaces de consulations
 <p align='center'>
-<img height="500" width="600" center src="https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/interface2.png"/>
+<img height="500" width="600" center src="https://github.com/nhelissa01/Projet_BonBagay/blob/main/views/2023-01-09%20(8).png"/>
+</p>
+<p align='center'>
+<img height="500" width="600" center src="https://github.com/nhelissa01/Projet_BonBagay/blob/main/views/2023-01-09%20(6).png"/>
 </p>
 
 ### Interface d'insertion et de modification.
 <p align='center'>
-<img height="500" width="600" center src="https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/interface2.png"/>
+<img height="500" width="600" center src="https://github.com/nhelissa01/Projet_BonBagay/blob/main/views/2023-01-09%20(4).png"/>
 </p>
-
-## 
-
-
 <p align='center'>
-<img height="500" width="600" center src="https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/emprunt.png"/>
-</p>
-
-<p align='center'>
-<img height="500" width="600" center src="https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/pret.png"/>
-</p>
-
-<p align='center'>
-<img height="500" width="600" center src="https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/remboursement.png"/>
+<img height="500" width="600" center src="https://github.com/nhelissa01/Projet_BonBagay/blob/main/views/2023-01-09%20(7).png"/>
 </p>
