@@ -16,8 +16,19 @@ Cette premiere version est une petite application de gestion de stocks en PHPMyS
 2- interface de consultation (pour tous les utilisateurs identifiés),
 3- interface d'insertion et de modification (commerciaux seulement).
 
-L'image ci-dessous présente un exemple l' interfaces de modification pour un vendeur.
+Les images ci-dessous présentent les interfaces de connexion, de consulation, d'insertion et de modification.
 
+### Interface de connexion
+<p align='center'>
+<img height="500" width="600" center src="https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/interface2.png"/>
+</p>
+
+### Interface de consulation
+<p align='center'>
+<img height="500" width="600" center src="https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/interface2.png"/>
+</p>
+
+### Interface d'insertion et de modification.
 <p align='center'>
 <img height="500" width="600" center src="https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/interface2.png"/>
 </p>
