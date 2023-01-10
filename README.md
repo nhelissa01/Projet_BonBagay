@@ -10,11 +10,11 @@ Une petite entreprise possède un stock d'articles, identifiés chacun par une r
 </p>
 
 ## Contenue
-### Cette premiere version est une petite application de gestion de stocks en PHPMySQL, permettant la gestion conjointe des articles, des clients et des achats, et présentant des fonctionnalités différentes en fonction des autorisations données aux commerciaux et aux comptables. En fonction de ces autorisation, les différents utilisateurs pourront accéder aux interfaces suivantes :
+Cette premiere version est une petite application de gestion de stocks en PHPMySQL, permettant la gestion conjointe des articles, des clients et des achats, et présentant des fonctionnalités différentes en fonction des autorisations données aux commerciaux et aux comptables. En fonction de ces autorisation, les différents utilisateurs pourront accéder aux interfaces suivantes :
 
-• connexion (avec login et mot de passe),
-• interface de consultation (pour tous les utilisateurs identifiés),
-• interface d'insertion et de modification (commerciaux seulement).
+1- connexion (avec login et mot de passe),
+2- interface de consultation (pour tous les utilisateurs identifiés),
+3- interface d'insertion et de modification (commerciaux seulement).
 
 L'image ci-dessous présente un exemple l' interfaces de modification pour un vendeur.
 
