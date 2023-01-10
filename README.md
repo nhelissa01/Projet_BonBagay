@@ -20,7 +20,7 @@ Les images ci-dessous présentent des exemples d'interface de connexion, de cons
 
 ### Interface de connexion
 <p align='center'>
-<img height="500" width="600" center src="https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/interface2.png"/>
+<img height="500" width="600" center src="https://github.com/nhelissa01/Projet_BonBagay/blob/main/views/connexion.jpeg"/>
 </p>
 
 ### Interfaces de consulations
@@ -38,3 +38,10 @@ Les images ci-dessous présentent des exemples d'interface de connexion, de cons
 <p align='center'>
 <img height="500" width="600" center src="https://github.com/nhelissa01/Projet_BonBagay/blob/main/views/2023-01-09%20(7).png"/>
 </p>
+<p align='center'>
+<img height="500" width="600" center src="https://github.com/nhelissa01/Projet_BonBagay/blob/main/views/modif%20(1).jpeg"/>
+</p>
+<p align='center'>
+<img height="500" width="600" center src="https://github.com/nhelissa01/Projet_BonBagay/blob/main/views/modif2.jpeg"/>
+</p>
+
